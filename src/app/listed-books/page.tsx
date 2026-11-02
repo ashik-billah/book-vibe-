@@ -8,7 +8,7 @@ const ListedBooks = () => {
   const { readBooks, wishlist } = useContext(BooksContext);
   const [sortBy, setSortBy] = useState<"rating" | "pages" | "year">("rating");
 
-  // console.log(readBooks, wishlist, "readBooks", "wishlist");
+ console.log(readBooks, wishlist, "readBooks", "wishlist");
   // console.log(sortBy, "sortBy");
 
   const sortBooks = (books: IBook[]) => {

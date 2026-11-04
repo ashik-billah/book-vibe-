@@ -13,7 +13,7 @@ const ListedBooks = () => {
 //add
   const sortBooks = (books: IBook[]) => {
     const sortedBooks = [...books];
-
+// add
     if (sortBy === "rating") {
       sortedBooks.sort((a, b) => b.rating - a.rating);
     } else if (sortBy === "pages") {

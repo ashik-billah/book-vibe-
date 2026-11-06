@@ -18,6 +18,7 @@ import {
 
 //add
 //add
+//add
 const colors = [
   "#0088FE",
   "#00C49F",
@@ -27,7 +28,7 @@ const colors = [
   "pink",
   "black",
 ];
-
+//add
 const getPath = (x: number, y: number, width: number, height: number) => {
   return `M${x},${y + height}C${x + width / 3},${y + height} ${x + width / 2},${y + height / 3}
   ${x + width / 2}, ${y}

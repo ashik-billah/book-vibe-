@@ -16,6 +16,7 @@ import {
   Tooltip,
 } from "recharts";
 
+//add
 const colors = [
   "#0088FE",
   "#00C49F",

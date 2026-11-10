@@ -1,5 +1,5 @@
 import React from 'react';
-
+//add
 const GlobalLoading = () => {
     return (
         <div>

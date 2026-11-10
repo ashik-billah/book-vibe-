@@ -9,3 +9,4 @@ const GlobalLoading = () => {
 };
 
 export default GlobalLoading;
+//add

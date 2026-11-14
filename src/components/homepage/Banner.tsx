@@ -11,6 +11,7 @@ const Banner = () => {
         <div className="grid items-center gap-8 p-6 md:grid-cols-2 md:p-10 lg:p-14">
           
           {/* Content */}
+          {/* add */}
           <div className="space-y-6 text-center md:text-left">
             <span className="inline-block rounded-full bg-white/10 px-4 py-2 text-sm font-medium text-white backdrop-blur">
               📚 Discover your next favorite book

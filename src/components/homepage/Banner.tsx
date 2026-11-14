@@ -2,7 +2,7 @@
 import Image from "next/image";
 import React from "react";
 import bannerImg from "@/assets/hero_img.jpg";
-
+//add
 const Banner = () => {
   return (
     <section className="px-4 py-10 md:py-16">

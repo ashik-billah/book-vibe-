@@ -16,7 +16,7 @@ const Banner = () => {
             <span className="inline-block rounded-full bg-white/10 px-4 py-2 text-sm font-medium text-white backdrop-blur">
               📚 Discover your next favorite book
             </span>
-
+{/* add */}
             <h1 className="text-4xl font-extrabold leading-tight text-white md:text-5xl lg:text-6xl">
               Books to freshen up
               <span className="block text-emerald-400">

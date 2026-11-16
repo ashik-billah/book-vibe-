@@ -33,7 +33,7 @@ const Banner = () => {
               <button className="btn btn-success rounded-full px-7 text-white">
                 Explore Books →
               </button>
-
+{/* add */}
               <button className="btn btn-outline rounded-full border-white/30 px-7 text-white hover:border-white hover:bg-white hover:text-slate-900">
                 Learn More
               </button>

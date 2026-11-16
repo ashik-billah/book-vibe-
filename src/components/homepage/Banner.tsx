@@ -41,6 +41,7 @@ const Banner = () => {
           </div>
 
           {/* Image */}
+          {/* add */}
           <div className="relative flex justify-center">
             <div className="absolute h-64 w-64 rounded-full bg-emerald-400/20 blur-3xl"></div>
 

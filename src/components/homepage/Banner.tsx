@@ -60,5 +60,5 @@ const Banner = () => {
     </section>
   );
 };
-
+//add
 export default Banner;

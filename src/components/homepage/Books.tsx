@@ -22,6 +22,7 @@ const Books = async () => {
   return (
     <section className="container mx-auto my-[70px] px-4">
       {/* Section Heading */}
+      {/* add */}
       <div className="mb-10 text-center">
         <p className="mb-2 text-sm font-semibold uppercase tracking-widest text-emerald-500">
           Our Collection

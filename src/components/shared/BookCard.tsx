@@ -11,6 +11,7 @@ const BookCard = ({ book }: IBookCardProps) => {
   return (
     <div className="group overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-2 hover:shadow-xl">
       {/* Image */}
+      {/* add image */}
       <div className="relative h-72 overflow-hidden bg-slate-100">
         <Image
           src={book.image}

@@ -22,6 +22,7 @@ const BookCard = ({ book }: IBookCardProps) => {
         />
 
         {/* Category */}
+        {/* add */}
         <span className="absolute left-4 top-4 rounded-full bg-white/90 px-3 py-1 text-xs font-semibold text-slate-700 shadow-sm backdrop-blur">
           {book.category}
         </span>

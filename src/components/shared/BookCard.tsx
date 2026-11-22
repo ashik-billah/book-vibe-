@@ -35,6 +35,7 @@ const BookCard = ({ book }: IBookCardProps) => {
       </div>
 
       {/* Content */}
+      {/* add */}
       <div className="p-5">
         {/* Tags */}
         <div className="mb-3 flex flex-wrap gap-2">

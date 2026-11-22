@@ -51,6 +51,7 @@ const BookCard = ({ book }: IBookCardProps) => {
         </div>
 
         {/* Book Name */}
+        {/* add */}
         <h3 className="line-clamp-1 text-xl font-bold text-slate-800 transition-colors group-hover:text-emerald-600">
           {book.bookName}
         </h3>

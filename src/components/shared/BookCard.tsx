@@ -57,6 +57,7 @@ const BookCard = ({ book }: IBookCardProps) => {
         </h3>
 
         {/* Author */}
+        {/* add */}
         <p className="mt-1 text-sm text-slate-500">
           by <span className="font-medium text-slate-700">{book.author}</span>
         </p>

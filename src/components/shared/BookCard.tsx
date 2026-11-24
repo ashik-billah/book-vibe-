@@ -63,6 +63,7 @@ const BookCard = ({ book }: IBookCardProps) => {
         </p>
 
         {/* Details */}
+        {/* add */}
         <div className="my-5 flex items-center justify-between border-y border-slate-100 py-3 text-sm text-slate-500">
           <div>
             <p className="text-xs text-slate-400">Pages</p>

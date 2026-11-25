@@ -2,7 +2,7 @@ import { IBook } from "@/types/books.type";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-
+//add
 interface IListedBooksCardProps {
   book: IBook;
 }

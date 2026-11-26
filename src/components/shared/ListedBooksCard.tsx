@@ -29,6 +29,7 @@ const ListedBooksCard = ({ book }: IListedBooksCardProps) => {
         </span>{" "}
       </div>{" "}
       {/* Details */}{" "}
+      {/* //adad */}
       <div className="flex flex-1 flex-col p-6 md:p-8">
         {" "}
         {/* Tags */}{" "}

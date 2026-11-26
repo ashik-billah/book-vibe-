@@ -22,6 +22,7 @@ const ListedBooksCard = ({ book }: IListedBooksCardProps) => {
           className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
         />{" "}
         {/* Category */}{" "}
+        {/* add */}
         <span className="absolute left-4 top-4 rounded-full bg-base-100/90 px-3 py-1 text-xs font-semibold shadow backdrop-blur">
           {" "}
           {book.category}{" "}

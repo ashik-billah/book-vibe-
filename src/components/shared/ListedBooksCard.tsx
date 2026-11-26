@@ -33,6 +33,7 @@ const ListedBooksCard = ({ book }: IListedBooksCardProps) => {
       <div className="flex flex-1 flex-col p-6 md:p-8">
         {" "}
         {/* Tags */}{" "}
+        {/* add tags */}
         <div className="mb-3 flex flex-wrap gap-2">
           {" "}
           {book.tags.map((tag) => (

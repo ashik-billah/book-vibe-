@@ -44,6 +44,7 @@ const ListedBooksCard = ({ book }: IListedBooksCardProps) => {
           ))}{" "}
         </div>{" "}
         {/* Title */}{" "}
+        {/* title */}
         <h2 className="text-2xl font-bold transition-colors group-hover:text-primary md:text-3xl">
           {" "}
           {book.bookName}{" "}

@@ -50,6 +50,7 @@ const ListedBooksCard = ({ book }: IListedBooksCardProps) => {
           {book.bookName}{" "}
         </h2>{" "}
         {/* Author */}{" "}
+        {/* add */}
         <p className="mt-1 text-sm text-base-content/60 md:text-base">
           {" "}
           Written by{" "}

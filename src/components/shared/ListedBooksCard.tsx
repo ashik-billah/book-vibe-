@@ -73,6 +73,7 @@ const ListedBooksCard = ({ book }: IListedBooksCardProps) => {
           {book.review}{" "}
         </p>{" "}
         {/* Book Info */}{" "}
+        {/* add */}
         <div className="mt-5 grid grid-cols-2 gap-4 border-y border-base-300 py-4 sm:grid-cols-4">
           {" "}
           <div>

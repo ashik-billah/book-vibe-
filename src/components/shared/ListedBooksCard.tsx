@@ -60,6 +60,7 @@ const ListedBooksCard = ({ book }: IListedBooksCardProps) => {
           </span>{" "}
         </p>{" "}
         {/* Rating */}{" "}
+        {/* add */}
         <div className="mt-4 flex items-center gap-2">
           {" "}
           <span className="text-lg text-orange-400">★★★★★</span>{" "}
